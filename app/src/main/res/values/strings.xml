@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="img_splash">Gambar Icon Movie</string>
+    <string name="movie">Movies</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="favorite">Favorite</string>
+    <string name="image">Image</string>
+    <string name="menu_favorite">favorite</string>
+    <string name="overview">Overview</string>
+    <string name="releaseDate">Release Date</string>
+    <string name="popularity">Popularity</string>
+    <string name="original_language">Language</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search Movie</string>
+    <string name="title">Title</string>
+    <string name="dummy_score">76%</string>
+    <string name="data_error">Something wrong, data empty!</string>
+</resources>
